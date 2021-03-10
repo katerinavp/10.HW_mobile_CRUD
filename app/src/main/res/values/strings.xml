@@ -7,4 +7,8 @@
     <string name="enter_your_post_content">enter your post content</string>
     <string name="create_new_post">Create new Post</string>
     <string name="create">Create</string>
+    <string name="date">22 янв. 2021г.</string>
+    <string name="author">Author</string>
+    <string name="post">Post</string>
+    <string name="location">Location</string>
 </resources>

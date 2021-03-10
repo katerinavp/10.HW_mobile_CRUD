@@ -3,7 +3,7 @@ package com.petukhova.mobile_auth
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class MainActivity : AppCompatActivity(R.layout.activity_new_post) { // можно здесь указать ссылку на xml файл вместо setContentView
+class MainActivity : AppCompatActivity(R.layout.item_post__event) { // можно здесь указать ссылку на xml файл вместо setContentView
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
